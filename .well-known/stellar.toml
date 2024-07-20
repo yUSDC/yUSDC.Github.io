@@ -9,7 +9,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="yUSDC"
 ORG_URL="https://yUSDC.github.io/"
-ORG_LOGO ="https://yUSDC.github.io/img/crown.png"
+ORG_LOGO ="https://yUSDC.github.io/img/yUSDC.png"
 ORG_OFFICIAL_EMAIL="yUSDC@proton.me"
 ORG_SUPPORT_EMAIL="yUSDC@proton.me"
 
@@ -17,31 +17,29 @@ ORG_SUPPORT_EMAIL="yUSDC@proton.me"
 email="yusdc@proton.me"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="yUSDC"
+name ="yUSDC"
 issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/crown.png"
+image="https://yUSDC.github.io/img/yUSDC.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
-
+anchor_asset_type="Finance"
 
 [[CURRENCIES]]
-code ="SGB"
-name ="SWEES GOLD BOND"
+code ="YUSDC"
+name ="YUSDC"
 issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/SGB.png"
+image="https://yUSDC.github.io/img/yUSDC.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
+anchor_asset_type="Finance"
+
 
 [[CURRENCIES]]
 code ="BTC"
